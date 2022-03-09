@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bankTest", "bankTest\bankTe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankNUnitTestProject", "BankNUnitTestProject\BankNUnitTestProject.csproj", "{BCE9FB7F-DD40-4075-BE16-63B4E5DEFCF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank.Test.BDD", "Bank.Test.BDD\Bank.Test.BDD.csproj", "{9CEC12B9-E97A-43FF-A04C-84196F9FA39C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{BCE9FB7F-DD40-4075-BE16-63B4E5DEFCF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCE9FB7F-DD40-4075-BE16-63B4E5DEFCF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCE9FB7F-DD40-4075-BE16-63B4E5DEFCF8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9CEC12B9-E97A-43FF-A04C-84196F9FA39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9CEC12B9-E97A-43FF-A04C-84196F9FA39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9CEC12B9-E97A-43FF-A04C-84196F9FA39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9CEC12B9-E97A-43FF-A04C-84196F9FA39C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
