@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = bankTest
-build_property.ProjectDir = C:\Users\ASUS\source\repos\bankTest\bankTest\
+build_property.ProjectDir = C:\Users\ASUS\Desktop\BankGit\Bank-\bankTest\

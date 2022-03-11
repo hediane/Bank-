@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\bankTest\\bankTest\\bankTest.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\BankGit\\Bank-\\bankTest\\bankTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\bankTest\\bankTest\\bankTest.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\BankGit\\Bank-\\bankTest\\bankTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\bankTest\\bankTest\\bankTest.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\BankGit\\Bank-\\bankTest\\bankTest.csproj",
         "projectName": "bankTest",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\bankTest\\bankTest\\bankTest.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\BankGit\\Bank-\\bankTest\\bankTest.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\bankTest\\bankTest\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\BankGit\\Bank-\\bankTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
