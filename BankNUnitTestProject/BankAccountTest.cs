@@ -25,7 +25,7 @@ namespace BankNUnitTestProject
         public void Withdrawing_funds_updates_Balance()
         {
             account.Withdraw(200);
-            Assert.AreEqual(1800, account.Balance);
+            Assert.AreEqual(1000, account.Balance);
 
         }
 
