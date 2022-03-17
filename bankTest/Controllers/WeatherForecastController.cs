@@ -26,6 +26,9 @@ namespace bankTest.Controllers
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
+            _logger.LogInformation("This is an INFORMATION message.");
+            _logger.LogWarning("This is a WARNING message.");
+            _logger.LogError("This is an ERROR message.");
             var rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {

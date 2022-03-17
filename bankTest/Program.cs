@@ -1,3 +1,5 @@
+using bankTest.Log4net;
+using log4net.Repository.Hierarchy;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
@@ -14,6 +16,7 @@ namespace bankTest
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            LoggerTest.writeLog("oups, c'est hediane 2");
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

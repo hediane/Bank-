@@ -1,3 +1,5 @@
+using bankTest;
+using bankTest.Log4net;
 using NUnit.Framework;
 
 namespace BankNUnitTestProject
@@ -5,20 +7,23 @@ namespace BankNUnitTestProject
     public class Tests
     {
         private bankTest.BankAccount account ;
+        
 
         [SetUp]
         public void Setup()
         {
             account = new bankTest.BankAccount(2000);
+            
         }
 
         [Test]
         public void Adding_funds_updates_Balance()
         {
             //var account = new bankTest.BankAccount(2000);
+            
             account.Add(200);
             Assert.AreEqual(2200,account.Balance);
-
+       
         }
 
         [Test]
